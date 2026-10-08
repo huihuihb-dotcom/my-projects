@@ -48,14 +48,14 @@
 #### **BPM 工作流系统** ⭐⭐ (主要商用项目)
 企业级工作流程管理系统，仿造国内轻流工具，已投入商用
 
-- **bpm-server** - 后端服务 (Java)
+- **[bpm-server](https://github.com/huihuihb-dotcom/bpm-server)** - 后端服务 (Java)
   - 完整的工作流引擎实现
   - 流程定义、执行、监控
   - 支持复杂的业务流程控制
   - 高可用性与数据持久化
   - 权限与审批流管理
   
-- **bpm-ui** - 前端管理界面 (Vue)
+- **[bpm-ui](https://github.com/huihuihb-dotcom/bpm-ui)** - 前端管理界面 (Vue)
   - 可视化流程设计器
   - 拖拽式工作流配置
   - 实时审批与任务管理
@@ -72,14 +72,14 @@
 #### **XBoard 网络穿透平台** ⭐⭐ (运营中)
 科学上网工具与网络穿透解决方案，二开自 xboard 框架，目前在商用运营中
 
-- **xboard-server** - 后端服务 (PHP)
+- **[xboard-server](https://github.com/huihuihb-dotcom/xboard-server)** - 后端服务 (PHP)
   - 网络穿透核心服务
   - 代理转发与路由管理
   - 用户认证与权限控制
   - 节点管理与负载均衡
   - 监控告警系统
   
-- **xboard-theme-opengate** - 前端主题 (Vue)
+- **[xboard-theme-opengate](https://github.com/huihuihb-dotcom/xboard-theme-opengate)** - 前端主题 (Vue)
   - 用户管理界面
   - 流量统计与数据展示
   - 订阅管理与支付集成
@@ -93,49 +93,49 @@
 
 ### 🎮 游戏与游戏服务
 
-#### **iEverWatch 平台** ⭐ (完整生态)
+#### **[iEverWatch](https://github.com/huihuihb-dotcom/iEverWatch) 平台** ⭐ (完整生态)
 完整的游戏服务生态系统，包括后端服务、前端 IDE、移动应用
-- **iEverWatch-server** - 后端服务 (Go)
+- **[iEverWatch-server](https://github.com/huihuihb-dotcom/iEverWatch-server)** - 后端服务 (Go)
   - 提供游戏数据处理与实时通信
   - RESTful API 与 WebSocket 支持
   - 高并发场景优化
   
-- **iEverWatch-ide** - 前端编辑工具 (Vue)
+- **[iEverWatch-ide](https://github.com/huihuihb-dotcom/iEverWatch-ide)** - 前端编辑工具 (Vue)
   - 游戏脚本编辑与调试
   - 实时预览与可视化设计
   
-- **iEverWatch-app** - 移动应用 (Dart/Flutter)
+- **[iEverWatch-app](https://github.com/huihuihb-dotcom/iEverWatch-app)** - 移动应用 (Dart/Flutter)
   - 跨平台移动体验
   - 原生性能优化
 
 #### **游戏项目**
-- **Magic_Jewelry** (C# / Unity 3D) ⭐
+- **[Magic_Jewelry](https://github.com/huihuihb-dotcom/Magic_Jewelry)** (C# / Unity 3D) ⭐
   - 复刻经典 FC 宝石方块游戏
   - 完整的游戏玩法与关卡系统
   - 2D 物理与消消乐机制实现
   
-- **RaidGame** (Lua) - 团队副本游戏系统
-- **BGLite_Plus** (Lua) - 游戏增强插件
-- **BGLite_TitanCollector** (Lua) - 游戏数据收集工具
-- **TeamNotifier** (Lua) - 游戏团队通知系统
+- **[RaidGame](https://github.com/huihuihb-dotcom/RaidGame)** (Lua) - 团队副本游戏系统
+- **[BGLite_Plus](https://github.com/huihuihb-dotcom/BGLite_Plus)** (Lua) - 游戏增强插件
+- **[BGLite_TitanCollector](https://github.com/huihuihb-dotcom/BGLite_TitanCollector)** (Lua) - 游戏数据收集工具
+- **[TeamNotifier](https://github.com/huihuihb-dotcom/TeamNotifier)** (Lua) - 游戏团队通知系统
 
 ---
 
 ### 🌐 Web 应用与前端
 
-#### **tomorrow** (Vue)
+#### **[tomorrow](https://github.com/huihuihb-dotcom/tomorrow)** (Vue)
 - 现代化任务管理与日程规划应用
 - 响应式设计，支持多设备
 
-#### **frp-win** (Vue)
+#### **[frp-win](https://github.com/huihuihb-dotcom/frp-win)** (Vue)
 - Windows 端应用程序
 - 网络穿透工具前端
 
-#### **web** (JavaScript)
+#### **[web](https://github.com/huihuihb-dotcom/web)** (JavaScript)
 - 主服务网站
 - 核心业务展示与用户交互
 
-#### **huixiang-docs** (TypeScript)
+#### **[huixiang-docs](https://github.com/huihuihb-dotcom/huixiang-docs)** (TypeScript)
 - 文档系统与知识库
 - 技术博客与 API 文档管理
 
@@ -143,12 +143,12 @@
 
 ### 🔧 后端服务与系统工具
 
-#### **frp-auth-server** (Go) ⭐
+#### **[frp-auth-server](https://github.com/huihuihb-dotcom/frp-auth-server)** (Go) ⭐
 - 网络穿透认证服务
 - 高性能、安全的身份验证系统
 - 支持大规模并发连接
 
-#### **cloud-ssl-AutoRenewal** (Go)
+#### **[cloud-ssl-AutoRenewal](https://github.com/huihuihb-dotcom/cloud-ssl-AutoRenewal)** (Go)
 - 云端 SSL 证书自动更新工具
 - 定时任务与监控告警
 - 支持多云平台集成
@@ -157,11 +157,11 @@
 
 ### 📱 应用与工具
 
-#### **hx-crm** (HTML)
+#### **[hx-crm](https://github.com/huihuihb-dotcom/hx-crm)** (HTML)
 - 企业客户关系管理系统
 - 业务流程管理与数据分析
 
-#### **FishingFun** (C#)
+#### **[FishingFun](https://github.com/huihuihb-dotcom/FishingFun)** (C#)
 - 娱乐工具应用
 - 桌面程序实现
 
@@ -169,18 +169,18 @@
 
 ### ⚙️ 嵌入式与硬件
 
-#### **rp2040** ⭐ (主项目)
+#### **[rp2040](https://github.com/huihuihb-dotcom/rp2040)** ⭐ (主项目)
 基于 RP2040 微控制器的嵌入式项目平台
 - 硬件驱动与固件开发
 - 低功耗系统设计
 - 多外设集成支持
 
-#### **wow_assistant** (子项目)
+#### **[wow_assistant](https://github.com/huihuihb-dotcom/wow_assistant)** (子项目)
 - RP2040 平台上的专用助手工具
 - 实时数据采集与处理
 - 与 iEverWatch 平台集成
 
-#### **HBD-ER200GA-**
+#### **[HBD-ER200GA-](https://github.com/huihuihb-dotcom/HBD-ER200GA-)** 
 - 硬件相关项目
 - 设备配置与管理
 
@@ -240,32 +240,32 @@
 
 | 分类 | 项目 | 技术栈 | 描述 | 状态 |
 |------|------|--------|------|------|
-| **商用系统** | BPM 工作流系统 | Java + Vue | 企业工作流程平台 | 🟢 商用运营 |
-| **商用系统** | XBoard 网络穿透 | PHP + Vue | 科学上网工具 | 🟢 商用运营 |
-| **游戏平台** | iEverWatch (生态) | Go + Vue + Dart | 游戏开发与运行 | 🔵 开发中 |
-| **游戏** | Magic_Jewelry | C# / Unity 3D | 宝石方块游戏 | ✅ 完成 |
-| **游戏** | RaidGame | Lua | 团队副本系统 | ✅ 完成 |
-| **游戏** | BGLite_Plus | Lua | 游戏增强工具 | ✅ 完成 |
-| **游戏** | BGLite_TitanCollector | Lua | 数据收集工具 | ✅ 完成 |
-| **游戏** | TeamNotifier | Lua | 团队通知系统 | ✅ 完成 |
-| **Web** | tomorrow | Vue | 任务管理应用 | ✅ 完成 |
-| **Web** | frp-win | Vue | 网络工具前端 | ✅ 完成 |
-| **Web** | web | JavaScript | 主网站 | 🔵 维护中 |
-| **Web** | huixiang-docs | TypeScript | 文档系统 | 🔵 维护中 |
-| **后端** | frp-auth-server | Go | 认证服务 | ✅ 完成 |
-| **后端** | iEverWatch-server | Go | 游戏服务端 | 🔵 维护中 |
-| **后端** | bpm-server | Java | 工作流引擎 | 🟢 商用运营 |
-| **工具** | cloud-ssl-AutoRenewal | Go | 证书管理工具 | ✅ 完成 |
-| **应用** | hx-crm | HTML | CRM 系统 | 🔵 维护中 |
-| **应用** | FishingFun | C# | 娱乐工具 | ✅ 完成 |
-| **移动** | iEverWatch-app | Dart | 移动应用 | 🔵 开发中 |
-| **IDE** | iEverWatch-ide | Vue | 开发工具 | 🔵 开发中 |
-| **UI** | bpm-ui | Vue | 工作流前端 | 🟢 商用运营 |
-| **网络** | xboard-server | PHP | 穿透服务 | 🟢 商用运营 |
-| **UI** | xboard-theme-opengate | Vue | 主题框架 | ✅ 完成 |
-| **嵌入式** | rp2040 | C/Python | 微控制器平台 | 🔵 开发中 |
-| **嵌入式** | wow_assistant | (子项目) | RP2040 助手 | 🔵 开发中 |
-| **硬件** | HBD-ER200GA- | 硬件配置 | 设备管理 | ✅ 完成 |
+| **商用系统** | [BPM 工作流系统](https://github.com/huihuihb-dotcom/bpm-server) | Java + Vue | 企业工作流程平台 | 🟢 商用运营 |
+| **商用系统** | [XBoard 网络穿透](https://github.com/huihuihb-dotcom/xboard-server) | PHP + Vue | 科学上网工具 | 🟢 商用运营 |
+| **游戏平台** | [iEverWatch (生态)](https://github.com/huihuihb-dotcom/iEverWatch) | Go + Vue + Dart | 游戏开发与运行 | 🔵 开发中 |
+| **游戏** | [Magic_Jewelry](https://github.com/huihuihb-dotcom/Magic_Jewelry) | C# / Unity 3D | 宝石方块游戏 | ✅ 完成 |
+| **游戏** | [RaidGame](https://github.com/huihuihb-dotcom/RaidGame) | Lua | 团队副本系统 | ✅ 完成 |
+| **游戏** | [BGLite_Plus](https://github.com/huihuihb-dotcom/BGLite_Plus) | Lua | 游戏增强工具 | ✅ 完成 |
+| **游戏** | [BGLite_TitanCollector](https://github.com/huihuihb-dotcom/BGLite_TitanCollector) | Lua | 数据收集工具 | ✅ 完成 |
+| **游戏** | [TeamNotifier](https://github.com/huihuihb-dotcom/TeamNotifier) | Lua | 团队通知系统 | ✅ 完成 |
+| **Web** | [tomorrow](https://github.com/huihuihb-dotcom/tomorrow) | Vue | 任务管理应用 | ✅ 完成 |
+| **Web** | [frp-win](https://github.com/huihuihb-dotcom/frp-win) | Vue | 网络工具前端 | ✅ 完成 |
+| **Web** | [web](https://github.com/huihuihb-dotcom/web) | JavaScript | 主网站 | 🔵 维护中 |
+| **Web** | [huixiang-docs](https://github.com/huihuihb-dotcom/huixiang-docs) | TypeScript | 文档系统 | 🔵 维护中 |
+| **后端** | [frp-auth-server](https://github.com/huihuihb-dotcom/frp-auth-server) | Go | 认证服务 | ✅ 完成 |
+| **后端** | [iEverWatch-server](https://github.com/huihuihb-dotcom/iEverWatch-server) | Go | 游戏服务端 | 🔵 维护中 |
+| **后端** | [bpm-server](https://github.com/huihuihb-dotcom/bpm-server) | Java | 工作流引擎 | 🟢 商用运营 |
+| **工具** | [cloud-ssl-AutoRenewal](https://github.com/huihuihb-dotcom/cloud-ssl-AutoRenewal) | Go | 证书管理工具 | ✅ 完成 |
+| **应用** | [hx-crm](https://github.com/huihuihb-dotcom/hx-crm) | HTML | CRM 系统 | 🔵 维护中 |
+| **应用** | [FishingFun](https://github.com/huihuihb-dotcom/FishingFun) | C# | 娱乐工具 | ✅ 完成 |
+| **移动** | [iEverWatch-app](https://github.com/huihuihb-dotcom/iEverWatch-app) | Dart | 移动应用 | 🔵 开发中 |
+| **IDE** | [iEverWatch-ide](https://github.com/huihuihb-dotcom/iEverWatch-ide) | Vue | 开发工具 | 🔵 开发中 |
+| **UI** | [bpm-ui](https://github.com/huihuihb-dotcom/bpm-ui) | Vue | 工作流前端 | 🟢 商用运营 |
+| **网络** | [xboard-server](https://github.com/huihuihb-dotcom/xboard-server) | PHP | 穿透服务 | 🟢 商用运营 |
+| **UI** | [xboard-theme-opengate](https://github.com/huihuihb-dotcom/xboard-theme-opengate) | Vue | 主题框架 | ✅ 完成 |
+| **嵌入式** | [rp2040](https://github.com/huihuihb-dotcom/rp2040) | C/Python | 微控制器平台 | 🔵 开发中 |
+| **嵌入式** | [wow_assistant](https://github.com/huihuihb-dotcom/wow_assistant) | (子项目) | RP2040 助手 | 🔵 开发中 |
+| **硬件** | [HBD-ER200GA-](https://github.com/huihuihb-dotcom/HBD-ER200GA-) | 硬件配置 | 设备管理 | ✅ 完成 |
 
 **状态说明**：
 - 🟢 商用运营 - 投入商业运营中
@@ -277,12 +277,12 @@
 ## 💼 商业成就
 
 ### 已投入商用的项目
-1. **BPM 工作流系统** - 企业级工作流程管理平台
+1. **[BPM 工作流系统](https://github.com/huihuihb-dotcom/bpm-server)** - 企业级工作流程管理平台
    - 完全仿造国内轻流工具
    - 支持复杂业务流程
    - 已有付费客户
 
-2. **XBoard 网络穿透** - 科学上网与网络穿透工具
+2. **[XBoard 网络穿透](https://github.com/huihuihb-dotcom/xboard-server)** - 科学上网与网络穿透工具
    - 基于 xboard 二开
    - 当前在商用运营中
    - 支持大规模用户并发
